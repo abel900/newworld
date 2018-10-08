@@ -5,3 +5,6 @@ forth
 fifth
 sixth
 seven
+eighth
+nighth
+tenth
